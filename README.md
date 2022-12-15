@@ -9,7 +9,7 @@ Unfortunately rusmeteo.net does not produce JSON format, only XML, I hope in the
 [![mavenCentral](https://img.shields.io/badge/download_Maven-v1.0.0-red)](https://search.maven.org/search?q=ru.avicorp.rusmeteolibrary)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-### Implementation of the library of rusmeteolibrary in the project of the smart home.
+### Implementation of the library of rusmeteolibrary in the my project of the smart home.
 <img align="center" src="https://github.com/avbase/rusmeteo/blob/main/rusmeteolibrary.gif" height="400" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
 
 
