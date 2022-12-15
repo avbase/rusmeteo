@@ -1,3 +1,4 @@
+Android library for obtaining rusmeteo.net forecast
 # Android library rusmeteo:
 Android library for obtaining rusmeteo.net forecast.
 
