@@ -70,7 +70,6 @@ dependencies {
 
 
 ```groovy
-val phash = pHashCalc()
 
 val rusmeteoWeather = RusmeteoWeather()//get to rusmeteolibrary instance
 
